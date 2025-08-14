@@ -50,7 +50,13 @@ My personality is defined by persistence and the drive to solve problems until a
 ---
 
 ## 📫 Contact
-- 📧 **Gmail:** sehyun2004@gmail.com  
-- 📧 **Naver Mail:** chinsehyun@naver.com  
+<p>
+  <a href="mailto:sehyun2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:chinsehyun@naver.com">
+    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=naver&logoColor=white"/>
+  </a>
+</p>
 
 ---
