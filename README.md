@@ -44,14 +44,13 @@ My personality is defined by persistence and the drive to solve problems until a
 
 ## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyunchin&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
-- 📄 **Notion:** [Your Notion Link](https://notion.so/)  
-- 📧 **Gmail:** yourname@gmail.com  
-- 📧 **Naver Mail:** yourname@naver.com  
+- 📧 **Gmail:** sehyun2004@gmail.com  
+- 📧 **Naver Mail:** chinsehyun@naver.com  
 
 ---
